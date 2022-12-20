@@ -1,4 +1,14 @@
 #!/usr/bin/python3
+    """
+    Write a class Node that defines a node of a singly linked list by:
+
+    Raises:
+        TypeError: data must be an integer
+        TypeError: next_node must be a Node object
+
+    Returns:
+        _type_: __data, __next_node
+    """
 class Node:
     def __init__(self, data, next_node=None):
         self.data = data

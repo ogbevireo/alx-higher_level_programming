@@ -1,4 +1,23 @@
 #!/usr/bin/python3
+"""
+    Write a class Square that defines a square by: (based on 5-square.py)
+
+
+
+    Raises:
+        TypeError: size must be an integer
+        ValueError: size must be >= 0
+        TypeError: position must be a tuple of 2 positive integers
+        TypeError: position must be a tuple of 2 positive integers
+        TypeError: position must be a tuple of 2 positive integers
+        TypeError: position must be a tuple of 2 positive integers
+        TypeError: position must be a tuple of 2 positive integers
+
+    Returns:
+        _type_: _description_
+    """
+
+
 class Square:
     """A class that defines a square by its size"""
 

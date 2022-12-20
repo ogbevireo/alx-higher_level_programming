@@ -1,4 +1,13 @@
 #!/usr/bin/python3
+"""
+    Write a class Square that defines a square by: (based on 1-square.py)
+
+    Raises:
+        TypeError: size must be an integer
+        ValueError: size must be >= 0 
+    """
+
+
 class Square:
     """A class that defines a square by its size"""
 
