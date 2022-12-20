@@ -1,12 +1,13 @@
 #!/usr/bin/python3
 """
-    Write the Python class MagicClass that does exactly the same as the following Python bytecode:
+    Write the Python class MagicClass that does exactly
+    the same as the following Python bytecode:
 
     Raises:
         TypeError: radius must be a number
 
     Returns:
-        _type_: (self.__radius**2) * math.pi, 
+        _type_: (self.__radius**2) * math.pi,
     """
 import math
 
