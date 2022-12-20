@@ -11,6 +11,8 @@
     """
 import math
 
+"""Class: a class that stores the properties of a circumference"""
+
 
 class MagicClass:
 
