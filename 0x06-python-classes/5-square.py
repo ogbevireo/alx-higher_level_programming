@@ -9,7 +9,7 @@
         ValueError: size must be >= 0
 
     Returns:
-        _type_: _description_
+        _type_: int
     """
 
 

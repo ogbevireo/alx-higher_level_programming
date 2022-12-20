@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-    """
+"""
     Write a class Square that defines a square by: (based on 4-square.py)
 
     Raises:
@@ -11,6 +11,8 @@
     Returns:
         _type_: int
     """
+
+
 class Square:
     """A class that defines a square by its size"""
 

@@ -14,7 +14,7 @@
         TypeError: position must be a tuple of 2 positive integers
 
     Returns:
-        _type_: _description_
+        _type_: __size
     """
 
 
