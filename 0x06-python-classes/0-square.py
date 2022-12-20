@@ -1,9 +1,11 @@
 #!/usr/bin/python3
+"""
+    This is a class that defines a square
+    """
+
+
 class Square:
     """
-     Class Square that defines a square.
-
-    This class is for User
+    Class: defines a square
     """
-
     pass
