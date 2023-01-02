@@ -17,3 +17,5 @@
 | `100-matrix_mul.py` | Function that multiplies 2 matrices (Doctest on `tests/100-matrix_mul.txt`) |
 | `101-lazy_matrix_mul.py` | Function that multiplies 2 matrices by using the module **NumPy** (Doctest on `tests/101-lazy_matrix_mul.txt`) |
 | `102-python.c` | Function that prints Python strings |
+
+DO HARD THINGS!!!
