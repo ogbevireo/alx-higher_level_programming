@@ -1,6 +1,11 @@
 #!/usr/bin/python3
+"""
+    This class shows kind of class.
+    """
+
+
 def is_kind_of_class(obj, a_class):
-    """ Function that returns True/False if obj is an instance of a_class
+    """Function that returns True/False if obj is an instance of a_class
 
     Args:
         obj: object
